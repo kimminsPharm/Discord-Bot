@@ -1,0 +1,10 @@
+The format of bot messages:
+
+Event Announcement:
+
+FROM: ________
+
+TIME: DDMMYYYY - DDMMYYYY
+
+DESCRIPTION
+
